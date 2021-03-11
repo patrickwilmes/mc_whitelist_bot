@@ -1,0 +1,7 @@
+token.txt
+.idea/
+*.iml
+venv/
+*.db
+whitelist.txt
+**/__pycache__
